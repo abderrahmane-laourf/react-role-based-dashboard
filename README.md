@@ -2,7 +2,6 @@
 
 A simple React dashboard that renders different views based on the user's role (Admin, User, Guest). Styled with Tailwind CSS for a responsive and clean user interface.
 
-
 ## Features 🚀
 - **Role-based rendering**: Displays different panels for Admin, User, and Guest.
 - **Responsive UI**: Fully responsive design using Tailwind CSS.
